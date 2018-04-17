@@ -13,4 +13,12 @@ SoSafe Home Security Services offer microprocessor-based security systems for ho
 * Program the system to activate/deactivate the sprinklers based on weather condition.
 * Program the system to activate/deactivate the sprinkler groups (and individual sprinklers).
 
+## Sequence Diagrams
 
+<img width="765" alt="screen shot 2018-04-16 at 5 44 42 pm" src="https://user-images.githubusercontent.com/10774588/38842296-0927225c-419e-11e8-9064-7c209eb1d03d.png">
+
+<img width="756" alt="screen shot 2018-04-16 at 5 44 55 pm" src="https://user-images.githubusercontent.com/10774588/38842323-27acc574-419e-11e8-952f-06c130405f5b.png">
+
+## Class Diagram
+
+<img width="858" alt="screen shot 2018-04-16 at 5 47 40 pm" src="https://user-images.githubusercontent.com/10774588/38842347-50aa4cc6-419e-11e8-9a08-4283e2e29714.png">
