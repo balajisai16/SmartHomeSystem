@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="false" router="FAN">  
+  <package id="1" language="java" name="view" project="SmartHomeSystem" file="/SmartHomeSystem/src/view" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="35" width="55" x="560" y="264"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="controller" project="SmartHomeSystem" file="/SmartHomeSystem/src/controller" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="632" y="406"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="Owner" project="SmartHomeSystem" file="/SmartHomeSystem/src/Owner" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="35" width="68" x="785" y="264"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="model" project="SmartHomeSystem" file="/SmartHomeSystem/src/model" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="35" width="66" x="893" y="264"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="true" protected="false" private="true" static="true"/>    
+    <operations public="false" package="true" protected="false" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>
