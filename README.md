@@ -22,3 +22,13 @@ SoSafe Home Security Services offer microprocessor-based security systems for ho
 ## Class Diagram
 
 <img width="858" alt="screen shot 2018-04-16 at 5 47 40 pm" src="https://user-images.githubusercontent.com/10774588/38842347-50aa4cc6-419e-11e8-9a08-4283e2e29714.png">
+
+## ScreenShot of Application
+
+<img width="924" alt="screen shot 2018-04-16 at 4 54 52 pm" src="https://user-images.githubusercontent.com/10774588/38842413-b0e82d92-419e-11e8-976b-3edde536dd90.png">
+
+<img width="919" alt="screen shot 2018-04-16 at 5 08 24 pm" src="https://user-images.githubusercontent.com/10774588/38842427-c65c2e58-419e-11e8-87a5-3ea7b161983d.png">
+
+<img width="924" alt="screen shot 2018-04-16 at 5 08 50 pm" src="https://user-images.githubusercontent.com/10774588/38842445-e189c276-419e-11e8-99e5-3159c84eb1d1.png">
+
+<img width="918" alt="screen shot 2018-04-16 at 5 09 04 pm" src="https://user-images.githubusercontent.com/10774588/38842457-ed60f060-419e-11e8-85ea-9ae4df11bfd4.png">
